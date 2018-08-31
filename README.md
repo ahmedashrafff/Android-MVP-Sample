@@ -6,7 +6,7 @@ This example doens't use any library or complix logic it is focused entirely on 
 
 ## Screenshots:
 <br>
-![](https://media.giphy.com/media/1o1rMLOx7SmTTOh6Zh/giphy.gif)
+![] (https://media.giphy.com/media/1o1rMLOx7SmTTOh6Zh/giphy.gif)
 <br>
 <br>
 
@@ -19,6 +19,7 @@ This example doens't use any library or complix logic it is focused entirely on 
 ## Class Diagram:
 Simple class diagram to demonstrate how this mvp code works
 <br>
+<br>
 <img src="Screenshots/ClassDiagram.png" height="362" alt="Screenshot"/>
 <br>
 <br>
@@ -26,6 +27,6 @@ Simple class diagram to demonstrate how this mvp code works
 ## References:
 * [Android MVP Article](http://www.digigene.com/architecture/android-architecture-part-3-mvp/)
 * [Vogella Android MVP](http://www.vogella.com/tutorials/AndroidArchitecture/article.html#the-model-view-presenter-architecture-for-android)
-* [MVP Tutorial in Arabic] (https://www.youtube.com/watch?v=F_x5wLdd3Ik)
+* [MVP Tutorial in Arabic](https://www.youtube.com/watch?v=F_x5wLdd3Ik)
 <br>
 <br>
