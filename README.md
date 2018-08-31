@@ -5,7 +5,6 @@ This example doens't use any library or complix logic it is focused entirely on 
 <br>
 
 ## Screenshots:
-<br>
 ![](https://media.giphy.com/media/1o1rMLOx7SmTTOh6Zh/giphy.gif)
 <br>
 <br>
